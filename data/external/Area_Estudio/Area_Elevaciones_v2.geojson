@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Area_Elevaciones_v2",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -103.477426641789393, 20.632581805763561 ], [ -103.476304520688274, 20.61369921619988 ], [ -103.460710906765812, 20.61567260158461 ], [ -103.463187311954485, 20.633394376216096 ], [ -103.477426641789393, 20.632581805763561 ] ] ] } }
+]
+}
